@@ -1,0 +1,12 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+a.site-title, a.post-link, h1.post-title, a.page-link { font-family: Palatino, Georgia, serif; }
+a.site-title, a.site-title:visited { font-family: Palatino, Georgia, serif; text-transform: uppercase; letter-spacing: 1.5px; color: #000000; }
+
+.post-list-heading { display: none; }
+
+p.attribution { opacity: 0.7; font-size:85%; margin-top: 3em;}
